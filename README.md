@@ -1,2 +1,2 @@
 # rsschool-cv
-<a href='https://alepsny.github.io/study/cv'>CV</a>
+<a href='https://alepsny.github.io/study/'>CV</a>
